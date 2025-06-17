@@ -11,7 +11,7 @@ This repository contains all data and code used for the final-year dissertation 
   - data extraction from World Bank API
   - panel data formatting
   - econometric analysis (OLS, Fixed Effects)
-- `results/`: Regression outputs and plots
+  - Regression outputs and plots
 - `README.md`: This file
 
 ## 📊 Description
